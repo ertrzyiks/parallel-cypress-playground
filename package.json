@@ -1,0 +1,13 @@
+{
+  "name": "parallel-cypress-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "cypress open",
+    "test": "cypress run --record"
+  },
+  "dependencies": {
+    "cypress": "^6.0.1"
+  }
+}
